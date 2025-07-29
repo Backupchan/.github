@@ -21,7 +21,7 @@ Backup-chan is an automatically managed, deduplicated, modular backup system.
 
 > [!NOTE]
 > You can also access your Backup-chan server through a web browser (assuming the web UI is enabled in your config), however I recommend using the CLI as it's faster
-> and cooler.
+> and has more functionality.
 
 ## A word on stability
 
