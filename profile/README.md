@@ -21,9 +21,4 @@ Backup-chan is an automatically managed, deduplicated, modular backup system.
 
 > [!NOTE]
 > You can also access your Backup-chan server through a web browser (assuming the web UI is enabled in your config), however I recommend using the CLI as it's faster
-> and has more functionality.
-
-## A word on stability
-
-At the moment, Backup-chan is pretty stable: it works and doesn't regularly explode, but until I personally have used it for long enough to ensure it actually works
-well, I'm calling it beta-quality software. Use at your own risk, and maybe open an issue or two if something's seriously broken.
+> and has more functionality, such as uploading directories directly and support for presets.
